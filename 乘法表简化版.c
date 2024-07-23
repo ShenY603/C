@@ -1,4 +1,4 @@
-//99³Ë·¨±í 
+//99Â³Ã‹Â·Â¨Â±Ã­ 
 #include <stdio.h>
 #include <windows.h>
 int main()
